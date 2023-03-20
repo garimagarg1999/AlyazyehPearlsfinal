@@ -40,7 +40,9 @@ import './Contactus.css';
                  </li>
                  <li>
                    <i className="address"><MdLocationOn /></i>
-                   <a href="address">ALYAZYEH FOR PEARLS & PRECIOUS STONES TRADING CO. L.L.C, Office G/05,Owned by FAHAD AHMAD ABDULKARIM ALZAROUNI, Hor Al Anz</a>
+                   <a href="address">ALYAZYEH FOR PEARLS & PRECIOUS STONES<br></br> 
+                   TRADING CO. L.L.C, Office G/05,Owned by <br></br> 
+                   FAHAD AHMAD ABDULKARIM ALZAROUNI, <br></br> Hor Al Anz</a>
                  </li>
                </ul>
                <ul className="get_say_social-icn">

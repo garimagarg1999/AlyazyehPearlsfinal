@@ -99,7 +99,7 @@ input[type="submit"]:hover {
   padding: 45px 0 25px 30px;
   background: #050505;
   position: relative;
-  margin-left: -1rem;
+  margin-left: -2rem;
 }
 .get_say_form h5 {
   color: #fff;
@@ -230,7 +230,7 @@ ul {
     padding: 45px 0 25px 30px;
     background: #050505;
     position: relative;
-    margin-left: 0rem;
+    margin-left: -2rem;
 }
 .get_say_social-icn {
   height: 6rem;
