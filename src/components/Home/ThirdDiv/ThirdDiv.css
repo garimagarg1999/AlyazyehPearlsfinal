@@ -1,0 +1,20 @@
+.third-div-content{
+    color: white;
+}
+.bg-third-div{
+    margin-inline: 50px;
+}
+.bg-third-div p{
+    color: white;
+    font-size: 19px;
+}
+@media only screen and (max-width: 1000px) {
+    .bg-third-div p {
+        color: white;
+        font-size: 19px;
+        margin-top: 2rem;
+        margin-left: 1rem;
+        margin-right: 1rem;
+    }
+    
+}
